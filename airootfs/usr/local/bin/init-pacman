@@ -1,0 +1,5 @@
+#!/bin/bash
+mkdir -m 0700 -p /etc/pacman.d/gnupg
+pacman-key --init
+pacman-key --populate artix archlinux
+pacman -Sy --noconfirm

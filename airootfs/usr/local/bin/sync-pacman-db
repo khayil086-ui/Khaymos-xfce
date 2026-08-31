@@ -1,0 +1,4 @@
+#!/bin/bash
+# Sync pacman databases silently on live boot
+sudo pacman -Sy --noconfirm >/dev/null 2>&1
+

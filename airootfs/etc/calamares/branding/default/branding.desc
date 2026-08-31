@@ -1,0 +1,22 @@
+---
+componentName: default
+
+strings:
+    productName: "Khaymos"
+    shortProductName: "Khaymos"
+    version: "1.0"
+    shortVersion: "1.0"
+    versionedName: "Khaymos 1.0"
+    shortVersionedName: "Khaymos 1.0"
+    bootloaderEntryName: "Khaymos"
+
+images:
+    productLogo: "calamares-logo.png"
+    productIcon: "calamares-logo.png"
+
+style:
+    sidebarBackground: "#292F34"
+    sidebarText: "#FFFFFF"
+    sidebarTextSelect: "#292F34"
+    sidebarTextHighlight: "#D8D8D8"
+

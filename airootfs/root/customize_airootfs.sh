@@ -18,3 +18,5 @@ gtk-update-icon-cache /usr/share/icons/hicolor || true
 
 
 
+rc-update add init-pacman default
+dbus-uuidgen > /etc/machine-id

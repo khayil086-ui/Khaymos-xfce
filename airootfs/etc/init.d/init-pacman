@@ -1,0 +1,13 @@
+#!/sbin/openrc-run
+description="Initialize pacman keyrings and sync mirrors"
+
+depend() {
+    need net
+    after net dbus
+}
+
+start() {
+    ebegin "Initializing pacman keyring"
+    /usr/local/bin/init-pacman
+    eend $?
+}

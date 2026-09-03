@@ -9,7 +9,7 @@ Khaymos is a from-scratch attempt at bringing the Arch package ecosystem to an O
 This is a solo project, actively in development. Expect some errors
 
 Download
-ISO: [Archive](https://archive.org/upload/?identifier=khaymos-kde-2026.08.18-x86_64)
+ISO: Will release soon.
 
 Since this is early-stage, it's recommended for testing/VMs rather than daily-driver use right now.
 

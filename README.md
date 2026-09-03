@@ -1,4 +1,4 @@
-## Khaymos Linux (KDE Edition)
+## Khaymos Linux (XFCE Edition)
 
 An Arch Linux-based distribution using OpenRC as its init system instead of systemd, with the Calamares graphical installer.
 
@@ -25,4 +25,4 @@ Credits / inspiration
 - Artix Linux
 
 # Related stuff:
-[Khaymos-XFCE](https://github.com/khayil086-ui/Khaymos-xfce)
+[Khaymos-KDE](https://github.com/khayil086-ui/Khaymos-KDE)
